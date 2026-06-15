@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>B.Tech CSE (AI & ML) · GATE CS-IT 2026 Qualified · CGPA 9.55</b><br/>
-  <i>Building intelligent systems at the intersection of AI, law, and real-world data</i>
+  <i>Building intelligent systems at the intersection of AIML, Software Engineering and real-world data</i>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/imyuvraj-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yuvrajsinghias09122004@gmail.com">
@@ -142,8 +142,8 @@ A low-latency LLM inference pipeline optimized for low-bandwidth rural environme
 | Institution | Qualification | Score | Year |
 |---|---|---|---|
 | MCKV Institute of Engineering, West Bengal | B.Tech CSE (AI & ML) | CGPA **9.55** | 2023 – 2027 |
-| Delhi Public School, Bokaro Steel City | Class XII – PCM (CBSE) | **70%** | — |
-| Saraswati Shishu Vidya Mandir, Bokaro Steel City | Class X (Jharkhand Academic Council) | **92%** | — |
+| Delhi Public School, Bokaro Steel City | Class XII – PCM (CBSE) | **70%** | 2020-2022 |
+| Saraswati Shishu Vidya Mandir, Bokaro Steel City | Class X (Jharkhand Academic Council) | **92%** | 2011-2020|
 
 ---
 
