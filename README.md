@@ -28,7 +28,7 @@
 - 🎓 Final-year **B.Tech CSE (AI & ML)** at MCKV Institute of Engineering, West Bengal (2023–2027)
 - 🏆 **GATE CS-IT 2026** Qualified | CGPA **9.62**
 - 💼 Interned at **IISc Bengaluru · Intel Unnati · Infosys Springboard · IBM · India Space Labs**
-- 🤖 Interests: Generative AI · RAG pipelines · NLP · LLMs · AI Agents · Full-stack development
+- 🤖 Interests: Generative AI · RAG pipelines · NLP · LLMs · AI Agents · Computer Vision · Full-stack development
 - 🔭 Currently building: **RAG-Enhanced Legal Assistant for India**
 - 🏅 Certified by **Oracle Cloud · Google · IBM · Infosys · HackerRank**
 - 📍 West Bengal, India
@@ -65,7 +65,7 @@ A low-latency LLM inference pipeline optimized for low-bandwidth rural environme
 
 | Period | Organization | Role |
 |---|---|---|
-| Jun 2026 – Present | **IISc Bengaluru** | Summer Research Intern |
+| Jun – Aug 2026 | **IISc Bengaluru** | Summer Research ML Intern |
 | Jan – May 2026 | **Intel Unnati** | Gen AI for Gen Z – Industrial Training |
 | Sep – Nov 2025 | **Infosys Springboard** | AI Virtual Intern 6.0 – Batch 3 |
 | Jul – Aug 2025 | **IBM** | AI Agent Training Intern |
