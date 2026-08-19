@@ -157,8 +157,8 @@ A low-latency LLM inference pipeline optimized for low-bandwidth rural environme
 
 | Institution | Qualification | Score | Year |
 |---|---|---|---|
-| MCKV Institute of Engineering, West Bengal | B.Tech CSE (AI & ML) | CGPA **9.55** | 2023 – 2027 |
-| Delhi Public School, Bokaro Steel City | Class XII – PCM (CBSE) | **70%** | 2020-2022 |
+| MCKV Institute of Engineering, West Bengal | B.Tech CSE (AI & ML) | CGPA **9.62** | 2023 – 2027 |
+| Delhi Public School, Bokaro Steel City | Class XII – PCM (CBSE) | **75%** | 2020-2022 |
 | Saraswati Shishu Vidya Mandir, Bokaro Steel City | Class X (Jharkhand Academic Council) | **92%** | 2011-2020|
 
 ---
@@ -166,9 +166,9 @@ A low-latency LLM inference pipeline optimized for low-bandwidth rural environme
 ## 📚 Relevant coursework
 
 `Data Structures & Algorithms` `Operating Systems` `OOPs (Java)` `High Performance Computing (CUDA)`
-`Artificial Intelligence & ML` `Deep Learning` `NLP` `Computer Vision` `Neural Networks`
-`Data Analytics & Visualization` `Cloud Computing (AWS)` `Networking`
-`Data Security & Authentication` `Cyber Law & Security Policy`
+`Artificial Intelligence & ML` `Deep Learning` `Natural Language Processing` `Computer Vision` `Neural Networks`
+`Data Analytics & Visualization` `Cloud Computing (AWS)` `Networking` `Data Mining`
+`Data Security & Authentication` `Cyber Law & Security Policy` 
 
 ---
 
