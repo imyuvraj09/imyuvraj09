@@ -26,7 +26,7 @@
 ## 🧑‍💻 About me
 
 - 🎓 Final-year **B.Tech CSE (AI & ML)** at MCKV Institute of Engineering, West Bengal (2023–2027)
-- 🏆 **GATE CS-IT 2026** Qualified | CGPA **9.55**
+- 🏆 **GATE CS-IT 2026** Qualified | CGPA **9.62**
 - 💼 Interned at **IISc Bengaluru · Intel Unnati · Infosys Springboard · IBM · India Space Labs**
 - 🤖 Interests: Generative AI · RAG pipelines · NLP · LLMs · AI Agents · Full-stack development
 - 🔭 Currently building: **RAG-Enhanced Legal Assistant for India**
