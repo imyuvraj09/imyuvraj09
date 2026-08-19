@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Yuvraj Singh 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE (AI & ML) · GATE CS-IT 2026 Qualified · CGPA 9.55</b><br/>
+  <b>B.Tech CSE (AI & ML) · GATE CS-IT 2026 Qualified · CGPA 9.62</b><br/>
   <i>Building intelligent systems at the intersection of AIML, Software Engineering and real-world data</i>
 </p>
 
