@@ -61,13 +61,12 @@ A low-latency LLM inference pipeline optimized for low-bandwidth rural environme
 
 ---
 ### 🔬 Dislocation Trace Analysis — Full-Stack Platform
-> *2026 · Next.js · TailwindCSS · FastAPI · Python · REST API · Crystallography*
-A production-style full-stack platform wrapping a crystallographic dislocation-analysis pipeline for Transmission Electron Microscopy (TEM) images with a modern web UI, built on top of an untouched scientific Python backend.
-Wired a Next.js + TailwindCSS frontend to the original Python pipeline via a FastAPI REST layer, without modifying a single function, dataclass field, or stage output in the core scientific package
-Designed a 9-stage pipeline API (line detection → g-vector/Miller indexing → pairing → angle computation → equation solving → true-line resolution → classification → batch reporting), each stage exposed as its own lightweight router
-Built an in-memory per-session store to carry pipeline state between stages (mirroring how the original interactive CLI passed variables between steps), keyed by a per-browser-tab session header
-Replaced the frontend's mock-data layer with real `fetch()`-based API calls, while documenting the bridge between simplified UI inputs and the pipeline's full scientific inputs (per-g-vector Miller indices, dual zone axes, explicit Burgers vectors)
-Shipped interactive API docs (`/docs`) and a working demo pipeline UI at `/pipeline`, with sample TEM/diffraction images included for testing
+> *2026 · Next.js · TailwindCSS · FastAPI · Python · Computer Vision · REST API*
+A full-stack platform wrapping a crystallographic dislocation-analysis pipeline for TEM images with a modern web UI, built on top of an untouched scientific Python backend.
+Wired a Next.js + TailwindCSS frontend to the original Python pipeline via a FastAPI REST layer, with zero changes to the core scientific package
+Applied computer vision techniques for line and g-vector detection directly from TEM/diffraction images
+Designed a 9-stage pipeline API — from line detection through classification and batch reporting — each stage its own lightweight router
+Built an in-memory per-session store to carry pipeline state between stages, replacing the frontend's earlier mock data with real API calls
 
 ---
 
