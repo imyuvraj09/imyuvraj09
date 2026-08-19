@@ -60,14 +60,15 @@ A low-latency LLM inference pipeline optimized for low-bandwidth rural environme
 - Shipped a fully operational Streamlit prototype with a cross-functional team of 4 in 12 weeks
 
 ---
-### 🔬 Dislocation Trace Analysis — Full-Stack Platform
+### ### 🔬 Dislocation Trace Analysis — Full-Stack Platform
 > *2026 · Next.js · TailwindCSS · FastAPI · Python · Computer Vision · REST API*
-A full-stack platform wrapping a crystallographic dislocation-analysis pipeline for TEM images with a modern web UI, built on top of an untouched scientific Python backend.
-Wired a Next.js + TailwindCSS frontend to the original Python pipeline via a FastAPI REST layer, with zero changes to the core scientific package
-Applied computer vision techniques for line and g-vector detection directly from TEM/diffraction images
-Designed a 9-stage pipeline API — from line detection through classification and batch reporting — each stage its own lightweight router
-Built an in-memory per-session store to carry pipeline state between stages, replacing the frontend's earlier mock data with real API calls
 
+A full-stack platform wrapping a crystallographic dislocation-analysis pipeline for TEM images with a modern web UI, built on top of an untouched scientific Python backend.
+
+- Wired a **Next.js + TailwindCSS** frontend to the original Python pipeline via a **FastAPI REST layer**, with zero changes to the core scientific package
+- Applied **computer vision** techniques for line and g-vector detection directly from TEM/diffraction images
+- Designed a **9-stage pipeline API** — from line detection through classification and batch reporting — each stage its own lightweight router
+- Built an **in-memory per-session store** to carry pipeline state between stages, replacing the frontend's earlier mock data with real API calls
 ---
 
 ## 💼 Internship experience
