@@ -60,7 +60,7 @@ A low-latency LLM inference pipeline optimized for low-bandwidth rural environme
 - Shipped a fully operational Streamlit prototype with a cross-functional team of 4 in 12 weeks
 
 ---
-### ### 🔬 Dislocation Trace Analysis — Full-Stack Platform
+### 🔬 Dislocation Trace Analysis — Full-Stack Platform
 > *2026 · Next.js · TailwindCSS · FastAPI · Python · Computer Vision · REST API*
 
 A full-stack platform wrapping a crystallographic dislocation-analysis pipeline for TEM images with a modern web UI, built on top of an untouched scientific Python backend.
